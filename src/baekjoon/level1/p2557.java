@@ -1,4 +1,4 @@
-package level1;
+package baekjoon.level1;
 
 public class p2557 {
 	public static void main(String[] args) {
