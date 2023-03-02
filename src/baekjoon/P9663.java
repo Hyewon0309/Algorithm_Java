@@ -29,7 +29,7 @@ public class P9663 {
 		bw.close();
 	}
 
-	// Check N-Queen at (x, y)
+	// Check Possible column at row x
 	static void nQueen(int x) {
 		if (x == n) {
 			count++;
